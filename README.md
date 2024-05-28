@@ -5,3 +5,5 @@
 ```
  docker compose up -d
 ```
+
+docker image ls
